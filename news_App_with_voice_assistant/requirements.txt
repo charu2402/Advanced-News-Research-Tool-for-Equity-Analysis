@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+yfinance
+textblob
+speechrecognition
+pyttsx3
+streamlit
